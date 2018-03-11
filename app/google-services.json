@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "747528946848",
+    "firebase_url": "https://geziyorum-ccedc.firebaseio.com",
+    "project_id": "geziyorum-ccedc",
+    "storage_bucket": "geziyorum-ccedc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747528946848:android:0ebb3e9ee8f7d9d0",
+        "android_client_info": {
+          "package_name": "com.geziyorum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747528946848-1mbbutv2a680ugslqfkvco8p6j1k6j8b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geziyorum",
+            "certificate_hash": "2367f2104530c635ecc143e17fded417bffdf94e"
+          }
+        },
+        {
+          "client_id": "747528946848-a36f44ldrt8ecui3qpne7r2c8gssevdn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjoBCXhpvWQAvWbmbwfFD6ePaCgSU5btA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747528946848-a36f44ldrt8ecui3qpne7r2c8gssevdn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GeziYorum</string>
+    <string name="title_home" translatable="false">Ana Sayfa</string>
+    <string name="title_dashboard" translatable="false">Benim Sayfam</string>
+    <string name="sign_in">Giriş</string>
+    <string name="sign_up">Kayıt Ol</string>
+    <string name="username">Email</string>
+    <string name="password">Şifre</string>
+    <string name="login">Giriş Yap</string>
+    <string name="delete">Sil</string>
+    <string name="save">Kaydet</string>
+    <string name="update">Düzenle</string>
+    <string name="get_location">Konumumu Al</string>
+    <string name="forgot_password">Şifremi Unuttum</string>
+</resources>
